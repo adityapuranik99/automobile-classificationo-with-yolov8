@@ -1,0 +1,6 @@
+train: datasets/train/images
+val: datasets/val/images
+test : test/images
+
+nc : 3
+names: ['car', 'medium truck', 'large truck']
